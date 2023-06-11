@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>防疫健康信息码服务</title>
+    <desc>Created with Sketch.</desc>
+    <g id="防疫健康信息码服务" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="椭圆形备份-20" fill="#EFFCFA" cx="45" cy="45" r="45"></circle>
+            <g id="编组-24备份" transform="translate(25.000000, 25.000000)">
+                <rect id="矩形" stroke="#00B68A" stroke-width="4" x="2" y="2" width="14" height="14" rx="4"></rect>
+                <rect id="矩形备份-5" stroke="#00B68A" stroke-width="4" x="2" y="24" width="14" height="14" rx="4"></rect>
+                <rect id="矩形备份-4" stroke="#00B68A" stroke-width="4" x="24" y="2" width="14" height="14" rx="4"></rect>
+                <rect id="矩形" fill="#00B68A" x="22" y="25" width="4" height="15" rx="2"></rect>
+                <rect id="矩形备份-7" fill="#00B68A" x="29" y="28" width="4" height="12" rx="2"></rect>
+                <rect id="矩形备份-8" fill="#00B68A" x="36" y="22" width="4" height="18" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

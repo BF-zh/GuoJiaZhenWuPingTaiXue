@@ -1,0 +1,21 @@
+{
+  "pages":[
+    "pages/home/index",
+    "pages/province-mini-program/index",
+    "pages/department-mini-program/index"
+  ],
+  "usingComponents": {
+    "my-navigetion":"/components/navigation/index",
+    "van-image": "@vant/weapp/image/index",
+    "van-icon": "@vant/weapp/icon/index"
+  },
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "国家政务平台",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh": true,
+    "backgroundColor":"#000"
+  },
+  "sitemapLocation": "sitemap.json"
+}

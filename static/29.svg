@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>国家职业资格证书查询</title>
+    <desc>Created with Sketch.</desc>
+    <g id="国家职业资格证书查询" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-156">
+            <circle id="椭圆形备份-54" fill="#FEF5F6" cx="45" cy="45" r="45"></circle>
+            <g id="编组-155" transform="translate(25.000000, 25.000000)">
+                <rect id="矩形" x="0" y="0" width="40" height="40"></rect>
+                <path d="M7.76470588,38 C5.68551624,38 4,36.3976507 4,34.4210526 L4,5.57894737 C4,3.60234932 5.68551624,2 7.76470588,2 L28,2 L36,10 L36,34 C36,36.209139 34.209139,38 32,38 L7.76470588,38 L7.76470588,38 Z" id="路径" stroke="#F3364E" stroke-width="4"></path>
+                <path d="M25.7647523,2 L25.7647523,8.13909478 C25.7647523,10.3482338 27.5556133,12.1390948 29.7647523,12.1390948 L36,12.1390948 L36,12.1390948" id="路径-243" stroke="#F3364E" stroke-width="4"></path>
+                <circle id="椭圆形" stroke="#F3364E" stroke-width="3.5" cx="16" cy="16" r="6.25"></circle>
+                <path d="M20,20 L20,29.5145898 C20,29.6802752 19.8656854,29.8145898 19.7,29.8145898 C19.6534265,29.8145898 19.6074926,29.8037463 19.5658359,29.782918 L16,28 L16,28 L12.4341641,29.782918 C12.2859705,29.8570147 12.1057686,29.7969474 12.0316718,29.6487539 C12.0108435,29.6070973 12,29.5611633 12,29.5145898 L12,20 L12,20" id="路径" stroke="#F3364E" stroke-width="3.5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

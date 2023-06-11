@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>贵州省</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#83C334" offset="0%"></stop>
+            <stop stop-color="#5DB971" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#A4CB00" offset="0%"></stop>
+            <stop stop-color="#6CBC58" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#9FCA08" offset="0%"></stop>
+            <stop stop-color="#6DBC57" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#18A5B9" offset="0%"></stop>
+            <stop stop-color="#0CA2EA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#18A5BA" offset="0%"></stop>
+            <stop stop-color="#0CA2EA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#18A5B9" offset="0%"></stop>
+            <stop stop-color="#0CA2EA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#9DCA0B" offset="0%"></stop>
+            <stop stop-color="#53B67F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#53B67F" offset="0%"></stop>
+            <stop stop-color="#0DA2E9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#A4CB00" offset="0%"></stop>
+            <stop stop-color="#3BB0A4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="贵州省" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <g id="编组-115" transform="translate(24.000000, 26.000000)">
+                <path d="M34.393236,6.63734939 C35.1079574,6.63734939 35.6873537,7.2167456 35.6873537,7.93146704 L35.6873537,16.558918 C35.6873537,17.2736395 35.1079574,17.8530357 34.393236,17.8530357 C33.6785146,17.8530357 33.0991184,17.2736395 33.0991184,16.558918 L33.0991184,7.93146704 C33.0991184,7.2167456 33.6785146,6.63734939 34.393236,6.63734939 Z" id="矩形备份-72" fill="url(#linearGradient-1)"></path>
+                <path d="M15.4128438,0.598133704 L19.7265693,0.598133704 C20.4412908,0.598133704 21.020687,1.17752991 21.020687,1.89225135 C21.020687,2.60697279 20.4412908,3.186369 19.7265693,3.186369 L15.4128438,3.186369 C14.6981224,3.186369 14.1187262,2.60697279 14.1187262,1.89225135 C14.1187262,1.17752991 14.6981224,0.598133704 15.4128438,0.598133704 Z" id="矩形备份-71" fill="#A4CB00"></path>
+                <path d="M8.64197602e-13,-1.54720681e-12 C1.56602391,0.650052779 2.34903586,1.85709853 2.34903586,3.62113724 C2.34903586,6.50989912 2.34903586,10.9268976 2.34903586,12.8801627 C2.34903586,14.8334278 4.38889452,16.4192346 6.66454635,16.0592701 C8.40376142,15.7731851 9.82795438,15.1942841 9.82795438,12.1241383 C9.82795438,10.0955645 8.61075983,9.29871699 6.17637071,9.1646482" id="路径-222" stroke="url(#linearGradient-2)" stroke-width="2.58823529" stroke-linecap="round"></path>
+                <path d="M15.8442164,-1.54720681e-12 C17.4102403,0.650052779 18.1932523,1.85709853 18.1932523,3.62113724 C18.1932523,6.50989912 18.1932523,10.9268976 18.1932523,12.8801627 C18.1932523,14.8334278 20.2331109,16.4192346 22.5087627,16.0592701 C24.2479778,15.7731851 25.6721708,15.1942841 25.6721708,12.1241383 C25.6721708,10.0955645 24.4549762,9.29871699 22.0205871,9.1646482" id="路径-222备份" stroke="url(#linearGradient-3)" stroke-width="2.58823529" stroke-linecap="round" transform="translate(20.758194, 8.055270) scale(-1, 1) translate(-20.758194, -8.055270) "></path>
+                <path d="M1.56593191,18.7157808 C1.68760655,20.6863865 2.80362164,21.6716894 4.91397719,21.6716894 C7.02433274,21.6716894 11.8872918,21.6716894 19.5028545,21.6716894 C21.2158582,21.5542148 22.07236,20.5689119 22.07236,18.7157808" id="路径-223" stroke="#53B67F" stroke-width="2.58823529" stroke-linecap="round"></path>
+                <path d="M1.56593191,24.7549964 C1.68760655,26.7256022 2.80362164,27.7109051 4.91397719,27.7109051 C7.02433274,27.7109051 11.8872918,27.7109051 19.5028545,27.7109051 C21.2158582,27.5934305 22.07236,26.6081276 22.07236,24.7549964" id="路径-223备份" stroke="#3CB0A5" stroke-width="2.58823529" stroke-linecap="round"></path>
+                <path d="M6.44636169,39.0481979 C8.31175558,36.5197583 9.33247646,34.2191047 9.50852435,32.1462371 L15.4817221,32.1578668 C16.1641455,35.6666976 17.1785025,37.9634746 18.5247931,39.0481979" id="路径-224" stroke="url(#linearGradient-4)" stroke-width="2.58823529" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M21.2063857,32.1462371 C21.1754766,35.052246 22.3130668,37.3528996 24.6191564,39.0481979" id="路径-225" stroke="url(#linearGradient-5)" stroke-width="2.58823529" stroke-linecap="round"></path>
+                <path d="M0.315417836,32.1462371 C0.28450871,35.052246 1.42209894,37.3528996 3.72818851,39.0481979" id="路径-225备份" stroke="url(#linearGradient-6)" stroke-width="2.58823529" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.021497, 35.597218) scale(-1, 1) translate(-2.021497, -35.597218) "></path>
+                <path d="M25.9238127,19.2925213 C27.7269267,18.4032819 28.6284837,16.8635167 28.6284837,14.6732256 C28.6284837,11.3877891 28.6284837,5.80184795 28.6284837,4.29977906 C28.6284837,2.79771016 31.1263066,0.31212918 34.4435432,0.31212918 C37.7607799,0.31212918 40.2402538,2.96460671 40.2402538,4.29977906 C40.2402538,5.63495141 40.2402538,12.9771007 40.2402538,14.6732256 C40.2402538,16.3693506 40.2402538,17.5428501 43.1787147,19.2925213" id="路径-226" stroke="url(#linearGradient-7)" stroke-width="2.58823529" stroke-linecap="round"></path>
+                <path d="M35.171446,25.4223202 C34.7579912,29.0397964 33.2132713,30.5191678 30.5372866,29.8604344 C26.5233095,28.8723344 27.8529756,24.2628674 28.8727876,22.9672784 C29.8925996,21.6716894 35.0727166,18.2236517 38.7365466,22.9672784 C42.4003766,27.7109051 38.3779168,30.7745718 36.4645902,32.1462371 C34.5512637,33.5179024 33.0991184,33.8838123 33.0991184,35.5972175 C33.0991184,36.7394877 33.0991184,37.8898145 33.0991184,39.0481979" id="路径-227" stroke="url(#linearGradient-8)" stroke-width="2.58823529" stroke-linecap="round"></path>
+                <path d="M5.69381274,1.89225135 L11.0991184,1.89225135 C12.0520803,1.89225135 12.8246086,2.66477963 12.8246086,3.61774155 L12.8246086,27.7109051 L12.8246086,27.7109051" id="路径-228" stroke="url(#linearGradient-9)" stroke-width="2.58823529" stroke-linecap="round"></path>
+            </g>
+            <rect id="矩形备份-3" stroke="#EBEBEB" x="0" y="0" width="90" height="90" rx="45"></rect>
+        </g>
+    </g>
+</svg>

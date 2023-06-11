@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>电子社保卡</title>
+    <desc>Created with Sketch.</desc>
+    <g id="电子社保卡" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-149">
+            <circle id="椭圆形备份-56" fill="#EDF8FF" cx="45" cy="45" r="45"></circle>
+            <g id="编组-65" transform="translate(24.000000, 25.000000)">
+                <rect id="矩形" x="1" y="0" width="40" height="40"></rect>
+                <path d="M4,5 C2.8954305,5 2,5.8954305 2,7 L2,33 C2,34.1045695 2.8954305,35 4,35 L38,35 C39.1045695,35 40,34.1045695 40,33 L40,7 C40,5.8954305 39.1045695,5 38,5 L4,5 Z" id="矩形" stroke="#0096FA" stroke-width="4"></path>
+                <rect id="矩形" stroke="#0096FA" stroke-width="3" x="8.5" y="13.5" width="9" height="13" rx="1"></rect>
+                <rect id="矩形" fill="#0096FA" x="22" y="14" width="4" height="4"></rect>
+                <rect id="矩形备份-185" fill="#0096FA" x="22" y="22" width="13" height="4"></rect>
+                <rect id="矩形备份-184" fill="#0096FA" x="28" y="14" width="4" height="4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

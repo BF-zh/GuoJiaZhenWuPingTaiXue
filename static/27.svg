@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="椭圆形备份-56" fill="#EDF8FF" cx="45" cy="45" r="45"></circle>
+        <rect id="矩形" x="25" y="25" width="40" height="40"></rect>
+        <path d="M45,48.4161119 C46.9329966,48.4161119 48.5,46.8491085 48.5,44.9161119 C48.5,42.9831153 46.9329966,41.4161119 45,41.4161119 C43.0670034,41.4161119 41.5,42.9831153 41.5,44.9161119 C41.5,46.8491085 43.0670034,48.4161119 45,48.4161119 Z" id="椭圆形" stroke="#0096FA" stroke-width="3"></path>
+        <path d="M38,55.5152586 C38.608383,52.1017971 41.5110121,49.5152586 45,49.5152586 C48.4889879,49.5152586 51.391617,52.1017971 52,55.5152586" id="路径" stroke="#0096FA" stroke-width="3" stroke-linecap="round"></path>
+        <path d="M30.0596061,42 L30.0596061,59.3636364 C30.0596061,61.3719445 31.7160369,63 33.7593478,63 L56.3641665,63 C58.4074774,63 60.0639082,61.3719445 60.0639082,59.3636364 L60.0639082,42" id="路径" stroke="#0096FA" stroke-width="4"></path>
+        <polygon id="路径-390" fill="#0096FA" points="25 43 45 25 65 43 59.0513264 43 45 30.3217639 31.0541459 43"></polygon>
+    </g>
+</svg>

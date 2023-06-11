@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>医保电子凭证</title>
+    <desc>Created with Sketch.</desc>
+    <g id="医保电子凭证" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <circle id="椭圆形备份-58" fill="#FEF5F6" cx="45" cy="45" r="45"></circle>
+            <g id="编组-168" transform="translate(25.000000, 26.000000)">
+                <rect id="矩形" x="0" y="0" width="40" height="40"></rect>
+                <path d="M16.2304877,35 L6.77777778,35 C4.69136872,35 3,33.3144838 3,31.2352941 L3,6.76470588 C3,4.68551624 4.69136872,3 6.77777778,3 L33.2222222,3 C35.3086313,3 37,4.68551624 37,6.76470588 L37,31.2352941" id="路径" stroke="#F3364E" stroke-width="4" stroke-linecap="round"></path>
+                <path d="M11,10 L29,10 C30.1045695,10 31,10.8954305 31,12 C31,13.1045695 30.1045695,14 29,14 L11,14 C9.8954305,14 9,13.1045695 9,12 C9,10.8954305 9.8954305,10 11,10 Z" id="矩形" fill="#F3364E"></path>
+                <path d="M11,18 L16,18 C17.1045695,18 18,18.8954305 18,20 C18,21.1045695 17.1045695,22 16,22 L11,22 C9.8954305,22 9,21.1045695 9,20 C9,18.8954305 9.8954305,18 11,18 Z" id="矩形备份-199" fill="#F3364E"></path>
+                <circle id="椭圆形" stroke="#F3364E" stroke-width="4" cx="26" cy="26" r="5"></circle>
+                <path d="M22.5,30.5 L22.5,38.152649 L26,35.752649 L29.5,38.152649 L29.5,30.5 L22.5,30.5 Z" id="矩形" stroke="#F3364E" stroke-width="3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

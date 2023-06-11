@@ -1,0 +1,20 @@
+<!--pages/province-mini-program/index.wxml-->
+<view class="flex p-md justify-between">
+  <view class="flex py-md column">
+    <text class="text-xl">省级小程序</text>
+    <text class="c-secondary">全国一体化在线服务</text>
+  </view>
+  <van-image width="300rpx" height="100%" src="/static/sjxcxbg.png" />
+</view>
+<view class="bg-white px-md" wx:for="{{list}}">
+  <view class="flex gap-sm c-secondary bb-1 solid py-sm">
+    <van-image width="3em" height="3em" src="{{item.src}}" />
+    <view class="flex-1 flex justify-between">
+      <view class="flex gap-sm column">
+        <text class="f-w-600 c-block">{{item.title}}</text>
+        <text class="text-xs">{{item.subTitle}}</text>
+      </view>
+      <van-icon name="arrow" />
+    </view>
+  </view>
+</view>

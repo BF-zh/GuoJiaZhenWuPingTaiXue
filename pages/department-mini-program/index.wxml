@@ -1,0 +1,12 @@
+<!--pages/department-mini-program/index.wxml-->
+<view class="flex column gap-sm bg-white m-md p-md radius-md align-center">
+  <text class="text-l c-primary">一样的页面就不做了吧！</text>
+  <text class="text-xs c-secondary">不过我做了个一个弹窗哦</text>
+</view>
+
+<view bindtap="handleShowToast" class="bg-white m-md p-md radius-sm align-center">
+  <text>点我显示Tost弹窗</text>
+</view>
+<view bindtap="handleShowModal" class="bg-white m-md p-md radius-sm align-center">
+  <text>点我显示Modal(模态)弹窗</text>
+</view>

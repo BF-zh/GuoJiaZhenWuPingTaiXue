@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>云南</title>
+    <desc>Created with Sketch.</desc>
+    <g id="云南" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形备份-3" stroke="#EBEBEB" x="0.5" y="0.5" width="89" height="89" rx="44.5"></rect>
+        <g id="编组-169" transform="translate(23.000000, 24.000000)" stroke="#006BBC" stroke-linecap="round" stroke-width="3.70588235">
+            <path d="M6.17647059,-2.20268248e-13 C10.1680751,6.17685657 15.4434528,9.26528486 22.0026039,9.26528486 C28.5617551,9.26528486 33.1687302,6.17685657 35.8235294,-2.20268248e-13" id="路径-392"></path>
+            <path d="M0,8.64705882 C5.82108985,16.0588235 13.5143491,19.7647059 23.0797778,19.7647059 C32.6452065,19.7647059 39.363712,16.0588235 43.2352941,8.64705882" id="路径-392备份"></path>
+            <polyline id="路径-393" stroke-linejoin="round" points="20.3544737 20.5817254 6.17647059 30.3259931 20.3544737 41.3435479 37.224944 30.3259931 29.1768349 24.5688663 20.3544737 30.3259931"></polyline>
+        </g>
+    </g>
+</svg>

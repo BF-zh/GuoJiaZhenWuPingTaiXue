@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>通知书查询</title>
+    <desc>Created with Sketch.</desc>
+    <g id="通知书查询" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="椭圆形备份-21" fill="#EDF8FF" cx="45" cy="45" r="45"></circle>
+            <g id="编组-103" transform="translate(25.000000, 25.000000)">
+                <rect id="矩形" x="0" y="0" width="40" height="40"></rect>
+                <g id="编组-102" transform="translate(0.000000, 2.000000)">
+                    <path d="M2,2 L2,31 L13.527864,31 C14.1488444,31 14.7612967,31.1445804 15.3167184,31.4222912 L20,33.763932 L24.6832816,31.4222912 C25.2387033,31.1445804 25.8511556,31 26.472136,31 L38,31 L38,2 L26.6055513,2 L22.2188008,4.92450033 C20.8752031,5.82023209 19.1247969,5.82023209 17.7811992,4.92450033 L13.3944487,2 L2,2 Z" id="矩形" stroke="#0096FA" stroke-width="4"></path>
+                    <rect id="矩形" fill="#0096FA" x="18" y="5" width="4" height="29"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

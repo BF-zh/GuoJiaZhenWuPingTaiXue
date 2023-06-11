@@ -1,0 +1,112 @@
+<!--pages/home/index.wxml-->
+<my-navigetion background="var(--primary-color)" isHome>
+  <view class="h-full flex items-center c-white px-md gap-sm">
+    <van-image width="1.3em" height="1.3em" src="/static/logo.png" />
+    国家政务服务平台（试运行）
+  </view>
+</my-navigetion>
+<view class="bg p-md">
+  <view class="flex c-white justify-between">
+    <view class="flex gap-sm items-center">
+      <text>四川</text>
+      <view class="triangle" />
+    </view>
+    <view class="flex gap-sm items-center">
+      <van-image width="2em" round height="2em" src="/static/no-login.png" />
+      <text>未登陆</text>
+    </view>
+  </view>
+  <view style="margin-top: var(--h);" class="bg-white radius-sm p-md flex items-center gap-sm">
+    <van-image width="1em" height="1em" src="/static/search.png" />
+    <text class="c-secondary">公积金</text>
+  </view>
+  <swiper autoplay circular indicator-dots style="height: 200rpx;" class="mt-md">
+    <swiper-item wx:key="index" wx:for="{{banners}}" class="bg-white radius-sm">
+      <van-image height="100%" width="100%" src="{{item}}" />
+    </swiper-item>
+  </swiper>
+  <swiper autoplay circular indicator-dots style="height: 350px;" class="mt-md bg-white p-md radius-sm">
+    <swiper-item class="grid column-4 items-center gap-sm" wx:key="index" wx:for="{{gridSwiper}}">
+      <view wx:for="{{item}}" wx:key="index" class="flex items-center column gap-sm">
+        <van-image width="3em" height="3em" src="{{item.src}}" />
+        <text style="height: 2em;" class="text-sm align-center mb-sm">{{item.text}}</text>
+      </view>
+    </swiper-item>
+  </swiper>
+  <view class="mt-md bg-white radius-sm p-md">
+    <view class="flex justify-between items-center">
+      <text class="text-xl f-w-600">我的证件</text>
+      <view class="flex align-center gap-sm c-secondary">
+        <text>全部</text>
+        <van-icon name="arrow" />
+      </view>
+    </view>
+    <swiper style="height: 220rpx;" class="mt-md" next-margin="20rpx">
+      <swiper-item class="radius-sm">
+        <image class="card-bg" src="/static/sbk.png" mode="aspectFill" />
+        <view style="margin-left: 180rpx;" class="px-sm c-white flex h-full column justify-center gap-sm">
+          <view class="flex justify-between">
+            <text>社会保障卡</text>
+            <text class="px-sm text-sm py-xs b-1 solid radius-md">未关联</text>
+          </view>
+          <text class="text-sm">添加后快速查看和使用此卡</text>
+        </view>
+      </swiper-item>
+      <swiper-item style="background-color: #f3f3f3;" class="radius-sm flex justify-center items-center">
+        <view class="bg-white c-primary px-xl py-sm radius-full">
+          <van-icon name="plus" />
+          <text>更多证照</text>
+        </view>
+      </swiper-item>
+    </swiper>
+  </view>
+  <view class="radius-md bg-white mt-md py-md">
+    <view class="px-md pb-md flex gap-md">
+      <text bindtap="handleTabChange" wx:key="index" data-tab="{{item}}" wx:for="{{tabs.tab}}" class="tab {{tabs.activeId===item.id?'active':''}}">{{item.text}}</text>
+    </view>
+    <!-- 专区面板 -->
+    <view wx:if="{{tabs.activeId===0}}" class="px-md bg-white">
+      <view>
+        <van-image height="180rpx" width="100%" src="/static/zqskfwzq.png" />
+      </view>
+      <swiper style="height: 520rpx;" class="mt-sm">
+        <swiper-item wx:key="index" wx:for="{{zqBanner}}" class="grid column-2 row-3 gap-sm radius-sm">
+          <image wx:for="{{item}}" wx:key="index" style="width: 100%; height: 100%;" mode="aspectFill" src="{{item}}" />
+        </swiper-item>
+      </swiper>
+      <view wx:for="{{miniProgra}}" wx:key="index">
+        <view class="flex justify-between items-center py-md">
+          <text class="text-xl f-w-500">{{item.title}}</text>
+          <view bindtap="handleClickToMoreMiniProgram" data-path="{{item.path}}" class="flex items-center gap-sm c-secondary">
+            <text>查看全部({{item.count}})</text>
+            <van-icon name="arrow" />
+          </view>
+        </view>
+        <view class="grid column-4 align-center b-1 solid radius-sm py-md">
+          <view class="flex column" wx:for="{{item.item}}" wx:key="index">
+            <van-image width="3em" height="3em" src="{{item.src}}" />
+            <text>{{item.text}}</text>
+          </view>
+        </view>
+      </view>
+    </view>
+    <!-- 服务面板 -->
+    <view wx:else>
+      <view class="b-1 px-sm py-md mb-sm radius-sm mx-sm solid" wx:for="{{servers}}">
+        <view class="flex justify-between pb-md items-center">
+          <text class="f-w-600 serve-title">{{item.title}}</text>
+          <view class="flex items-center gap-sm c-secondary">
+            <text>更多</text>
+            <van-icon name="arrow" />
+          </view>
+        </view>
+        <view class="grid column-2 gap-sm">
+          <text style="--w:100%;" wx:for="{{item.item}}" class="ellipsis serve-item">{{item.text}}</text>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="p-2xl align-center">
+    <text class="c-secondary text-sm">2021级PB3A班王浩负责运行维护</text>
+  </view>
+</view>

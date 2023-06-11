@@ -1,0 +1,74 @@
+/* pages/home/index.wxss */
+.bg{
+  --h:150rpx;
+  position: absolute;
+  width: 100%;
+  background-image: url(http://static.gjzwfw.gov.cn/shouye/end_toutu_1201.png);
+  background-size: 100% auto;
+  background-position: 0 calc(-1 * var(--h));
+  background-repeat: no-repeat;
+  height: 450rpx;
+  z-index: -1;
+}
+.card-bg{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+.tab{
+  --line-width:1em;
+  --line-height:4px;
+  position: relative;
+  font-weight: 500;
+}
+.tab.active{
+  font-size: large;
+}
+.tab.active::after{
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translate(-50%,100%);
+  width: var(--line-width);
+  height: var(--line-height);
+  border-radius: var(--line-height);
+  background-color: var(--primary-color);
+}
+.serve-item{
+  --line-size:2px;
+position: relative;
+}
+.serve-item:nth-child(odd)::after{
+  content: '';
+  position: absolute;
+  width: var(--line-size);
+  height: 70%;
+  right: 0;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  border-radius: var(--line-size);
+  background: var(--secondary-color);
+}
+.serve-item:nth-child(odd):last-child::after{
+  display: none
+}
+.serve-title{
+  --size:.2em;
+  position: relative;
+  padding-left: calc(var(--size) * 2);
+}
+.serve-title::before{
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: var(--size);
+  height: 70%;
+  border-radius: var(--size);
+  background: var(--primary-color);
+}
